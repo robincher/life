@@ -1,44 +1,55 @@
-@cheeaun's life
+@robincher's life
 ===============
 
-- 20/06/1985 Born
-- 1991 Kindergarten
-- 1992-1997 Primary school - SKSJ
-- 1998-2000 Secondary school - SMKTI
-- ~2000 First computer
-- 2001-2002 Secondary school - SMKDOB
-- 04/11/2002 Phoenity is born
-- 2003-2004 Secondary school (Form 6) - SMKDOB
-- 01/2005-03/2005 First (non-technical) job
-- 08/2005-08/2008 University - UTAR
-- 11/2005 Dead hard drive of first computer
-- 07/2006-05/2007 CSS Web Designer - MindValley
-- 18/12/2006 [First tweet](https://twitter.com/cheeaun/status/1298723)
-- 04/2007 First laptop (HP)
-- 06/2008-07/2009 Web Developer - ZoeCity
-- 24/08/2009-26/06/2013 Front-End Developer - Wego
-- 07/2010 Second laptop (Dell)
-- 04/03/2012 [HackerWeb featured](https://news.ycombinator.com/item?id=3662709) on Hacker News
-- 01/07/2013-23/10/2015 Software Engineer - Viki
-- 02/12/2013 [Life featured](https://news.ycombinator.com/item?id=6833565) on Hacker News
-- 24/12/2013 Third laptop/ultrabook (Dell)
-- 10/01/2014-09/05/2014 First trip to US (SF and Portland)
-- 11/09/2014-21/09/2014 First trip to Germany (Berlin)
-- 28/10/2014-8/11/2014 First trip to Australia (Sydney)
-- 23/04/2015-01/05/2015 First trip to New Zealand (Auckland)
-- 09/05/2015-16/05/2015 Second trip to Germany (Düsseldorf and Cologne)
-- 27/06/2015-05/07/2015 First trip to France (Paris)
-- 30/07/2015 Dad passed away
-- 02/10/2015 First MacBook
-- 26/10/2015-17/11/2015 First trip to Japan (Tokyo) and second trip to US (SF)
-- 15/02/2016-~ Senior Software Engineer (Tech in Asia)
-- 01/03/2016 Launched 1st iOS app on the App Store
-- 20/04/2016 Launched 1st Android app on Google Play
-- 20/06/2016 Featured on [Digital News Asia](https://www.digitalnewsasia.com/digital-economy/datasets-rest-us-datagovsg)
-- 23/06/2016 Featured on [Channel 8 News](http://www.channel8news.sg/news8/singapore/20160623-sg-ida-govt-data/2898746.html)
-- 23/09/2016-30/09/2016 Second trip to Japan (Tokyo)
-- 07/10/2016 Featured on [GovTech conference](https://twitter.com/heliumlife/status/784217428410544128)
-- 25/11/2016 Gave a [talk](https://www.youtube.com/watch?v=V0dKzbhtHpQ) at JSConf.Asia
-- 07/12/2016 Featured on [Tech In Asia Developer Spotlight](https://www.techinasia.com/talk/developer-spotlight-this-frontend-dev-wont-tell-you-where-to-start)
-- 06/05/2017 Featured on [We Build SG LIVE Podcast](https://live.webuild.sg/046-chee-aun-lim/)
-- 02/06/2017-10/06/2017 First trip to Hong Kong and Macau
+- 05/01/1986 Born
+- 1991-1992 Kindergarten
+- 1993-1998 Primary school - Holy Innocent Primary School
+- 1999-2002 Secondary school - Holy Innocent High School
+- ~2000 First computer. Love you Mum
+- 03/2000-09/2000 First Job with Macdonald
+- 2003-2006 Pre-university - Nanyang Polytechnic
+- 09/2006-07/2008 National Service , and deferred for studies
+- 08/2008 First laptop (Fujitsu). Love you Grandad.
+- 09/2008-07/2012 College - Singapore Management University , Bachelor of Science (Information Systems Management)
+- 04/2009-05/2009 Oversea Community Service trip to Cambodia
+- 06/2009 First oversea trip to Hongkong, Macau and Shenzhen
+- 05/2009-07/2009 Camp facilitators for various cca :)
+- 12/2009-01/2010 Back to Army Camp to complete my service term
+- 03/2010 First Trip to Phuket, Thailand
+- 04/2010 APEX Business Case Conference Host for HKUST
+- 04/2010-07/2010 First Internship with UBS 
+- 07/2010-11/2010 IS Final Year project
+- 01/12/2011 Lien Award Winner for Final Year Project
+- 01/2011-06/2011 Oversea exchange at Finland
+- 13/01/2011 First trip to London , United Kingdom
+- 12/02/2011 First trip to Olso, Norway
+- 15/02/2011 First trip to Stockholm and Gothenburg , Sweden
+- 03/03/2011 First trip to Budapest , Hungary
+- 06/03/2011 First trip to Vienna , Austria
+- 08/03/2011 First trip to Bratislava, Slovakia
+- 10/03/2011 First trip to Prague, Czech Republic
+- 12/03/2011 Lost my Camera 
+- 13/03/2011 First trip to Berlin, Germany
+- 21/03/2011 First trip to Estonia and Latvia
+- 01/04/2011 First trip to Saint Petersburg , 
+- 13/04/2011 First trip to Poland and Lithuania
+- 20/04/2011 First trip to Scotland, United Kingdom
+- 03/05/2011 First trip to Frankfurt , Germany
+- 06/05/2011 First trip to Paris, France
+- 09/05/2011 First trip to Rome, Italy
+- 11/05/2011 First trip to Morocco
+- 18/05/2011 First trip to Spain 
+- 28/05/2011 First trip to Amsterdam, Netherlands
+- 01/06/2011 Home from Europe
+- 01/07/2011-01/08/2011 Part-time IT Support @ Capella Hotel Singapore
+- 03/12/2011-01/06/2012 Internship and Deloitte Singapore
+- 07/2012 Graduated from Singapore Management University
+- 14/07/2012 First day of full-time job in DBS
+- 01/04/2014 Promotion to Associate
+- 01/2015-07/2017 Postgraduate - National University of Singapore , Master of Technology
+- 01/04/2016 Promotion to Senior Associate
+- 01/09/2016 Left DBS
+- 13/09/2016 New job in GovTech Singapore
+- 06/07/2017 Graduated from National University of Singapore 
+- 07/07/2017 Feature on [Straits Times](http://www.straitstimes.com/singapore/education/second-times-the-charm) for NUS ISS Master of Technology
+
