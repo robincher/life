@@ -8,12 +8,13 @@
 - ~2000 First computer. Love you Mum
 - 03/2000-09/2000 First Job with Macdonald
 - 2003-2006 Pre-university - Nanyang Polytechnic
+- 07/2006 First trip to Western Australia , Australia
 - 09/2006-07/2008 National Service , and deferred for studies
 - 08/2008 First laptop (Fujitsu). Love you Grandad.
 - 09/2008-07/2012 College - Singapore Management University , Bachelor of Science (Information Systems Management)
 - 04/2009-05/2009 Oversea Community Service trip to Cambodia
 - 06/2009 First oversea trip to Hongkong, Macau and Shenzhen
-- 05/2009-07/2009 Camp facilitators for various cca :)
+- 07/2009-07/2009 Camp facilitators for various cca :)
 - 12/2009-01/2010 Back to Army Camp to complete my service term
 - 03/2010 First Trip to Phuket, Thailand
 - 04/2010 APEX Business Case Conference Host for HKUST
@@ -45,7 +46,9 @@
 - 03/12/2011-01/06/2012 Internship and Deloitte Singapore
 - 07/2012 Graduated from Singapore Management University
 - 14/07/2012 First day of full-time job in DBS
+- 13/04/2013-21/04/2013 First Trip Seoul , Korea
 - 01/04/2014 Promotion to Associate
+- 14/10/2014 First trip to Bangkok , Thailand
 - 01/2015-07/2017 Postgraduate - National University of Singapore , Master of Technology
 - 01/04/2016 Promotion to Senior Associate
 - 01/09/2016 Left DBS
