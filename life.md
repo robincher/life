@@ -55,4 +55,4 @@
 - 13/09/2016 New job in GovTech Singapore
 - 06/07/2017 Graduated from National University of Singapore 
 - 07/07/2017 Feature on [Straits Times](http://www.straitstimes.com/singapore/education/second-times-the-charm) for NUS ISS Master of Technology
-
+- 11/08/2017 Talk on NUS ISS experience during [ISS Learning Day 2017](https://www.iss.nus.edu.sg/community/events/event-details/2017/08/11/default-calendar/nus-iss-learning-day-2017)
